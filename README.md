@@ -1,0 +1,2 @@
+# mactdata
+用来快速安装mac版本telegram的tdata账号
